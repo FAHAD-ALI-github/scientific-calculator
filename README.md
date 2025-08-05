@@ -49,7 +49,7 @@ A sleek and modern **Scientific Calculator** supporting both **Basic** and **Sci
 
 Want to see more of my work?
 
-👉 [Visit My Portfolio](https://github.com/FAHAD-ALI-github/FAHAD-ALI-Portfolio)
+👉 [Visit My Portfolio](https://fahad-ali-github.github.io/FAHAD-ALI-Portfolio/)
 
 ---
 
@@ -64,7 +64,7 @@ Want to see more of my work?
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/FAHAD-ALI-github/your-calculator-repo.git
+   git clone https://github.com/FAHAD-ALI-github/scientific-calculator.git
    ```
 
 2. Open `index.html` in your browser.
